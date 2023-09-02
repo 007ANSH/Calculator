@@ -1,0 +1,22 @@
+
+
+button {
+    padding: 15px 23px;
+    margin: 7px 3px;
+
+    border-radius: 12px;
+    border: 2px solid black;
+    font-size: 1rem;
+    width: 53px;
+    height: 53px;
+}
+.row input{
+    margin: 6px auto;
+    width: 91%;
+    padding: 7px 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+
+
+}
